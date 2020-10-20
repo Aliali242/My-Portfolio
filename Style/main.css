@@ -1,6 +1,35 @@
-a{
-    color:green;
-    font-size: 3ems;  
-    background-color: black;
+a {
+    color:rgb(12, 218, 12);
+    font-size: 40px;  
+    display:inline;
+    width: 100px;
+    padding:8px;
+    background-color: rgba(8, 8, 8, 0.856);
+    border: 1px solid #057a2c;
+   
+} 
+p {
+    color:rgb(12, 218, 12);
+    font-size: 10ems;  
+    
 }
     
+body{
+    background-color: rgba(0, 0, 0, 0.932);
+    background-image: url('hacker-1446193_960_720.jpg');
+}
+
+h1{
+    color:rgb(12, 218, 12);
+    font-size: 20ems;
+}
+figcaption{
+    color:rgb(12, 218, 12);
+    font-size: 10ems;  
+     
+}
+li{
+    color:rgb(12, 218, 12);
+    font-size: 40ems;    
+}
+
