@@ -10,7 +10,7 @@ a {
 } 
 p {
     color:rgb(12, 218, 12);
-    font-size: 10ems;  
+    font-size: 2em;  
     
 }
     
@@ -25,11 +25,11 @@ h1{
 }
 figcaption{
     color:rgb(12, 218, 12);
-    font-size: 10ems;  
+    font-size: 2em;  
      
 }
 li{
     color:rgb(12, 218, 12);
-    font-size: 40ems;    
+    font-size: 2em;    
 }
 
